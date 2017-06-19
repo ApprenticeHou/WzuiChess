@@ -42,6 +42,7 @@ public MyFrame(){
 	myWuzipanel.add(myWuziButton.simple);
 	myWuzipanel.add(myWuziButton.middle);
 	myWuzipanel.add(myWuziButton.difficult);
+	myWuzipanel.add(myWuziButton.Music);
 //    myWuzipanel.add(myWuziButton.num1);
 	
     add(myWuzipanel);
